@@ -22,7 +22,6 @@ Given a polynomial in k variables, PolyAnalyst finds:
 For the polynomial x**2 + y**2 = n:
 - The program finds how many ways each number n can be written as a sum of two squares
 - Shows all solutions for each n in the given range
-- Provides an upper bound for the growth rate of solutions
 
 ## Notes
 - For large ranges, computation time may increase
