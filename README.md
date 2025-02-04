@@ -6,7 +6,6 @@ PolyAnalyst is a program that analyses solutions of polynomials in integers.
 Given a polynomial in k variables, PolyAnalyst finds:
 - Number of integer solutions for each n in a given range [a,b]
 - Visual representation of the polynomial
-- Upper bound for the number of solutions using circle method
 
 ## Available Versions
 - **PolyAnalyst.exe**: Analyzes solutions in all integers (both positive and negative)
